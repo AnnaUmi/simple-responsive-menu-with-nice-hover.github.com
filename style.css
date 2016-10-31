@@ -354,29 +354,29 @@ p:last-child{
 	right: 0;
 }
 .style4 {
-	background-color: #610e04;
+	background-color: #16536e;
 }
 .style4 a, .style4 p {
 	text-decoration: none;
 	color: #fff;
 }
 .style4 #toggle-button{
-	background: #fb5c01;
+	background: #001126;
 	display: block;
 	min-height: 50px;
 	height: 100%;
 	font-size: 35px;
 	line-height: 50px;
 	padding-left: 15px;
-	border-bottom: 1px solid #ff980b;
+	border-bottom: 1px solid #489eba;
 	cursor: pointer;
 }
 .style4 .s-menu {
 	display: block;
-	background: #fb5c01;
+	background: #001126;
 }
 .style4 .s-menu ul li {
-	border-bottom: 1px solid #ff980b;
+	border-bottom: 1px solid #489eba;
 	padding: 12px 10px;
 	text-align: center;
 }
@@ -387,7 +387,7 @@ p:last-child{
 	display: none;
 }
 .style4 .m-menu{
-	background: #fb5c01;
+	background: #001126;
 }
 .style4 .m-menu ul li{
 	display: inline-block;
@@ -429,7 +429,7 @@ p:last-child{
   left: 0;
   right: 0;
   bottom: 0;
-  background: #a14135;
+  background: #489eba;
   -webkit-transform: scaleY(0);
   transform: scaleY(0);
   -webkit-transform-origin: 50% 100%;
